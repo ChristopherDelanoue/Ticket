@@ -1,20 +1,22 @@
+import { Link, NavLink } from "react-router";
+
 function Footer() {
     return (
         <div className="dock dock-xl flex-none inset-shadow-sm">
-            <button className="text-non-actif">
-                <i className="fa-solid fa-newspaper"></i>
-                <span className="dock-label">Nouveautés</span>
-            </button>
+            <NavLink to="/avis" className={({isActive}) => isActive ? 'dock-active jaune-torchio' : 'text-non-actif' }>
+                <i className="fa-regular fa-star"></i>
+                <span className="dock-label">Donnez votre avis</span>
+            </NavLink>
 
-            <button className="dock-active jaune-torchio">
+            <NavLink to="/" className={({isActive}) => isActive ? 'dock-active jaune-torchio' : 'text-non-actif' }>
                 <i className="fa-solid fa-hammer "></i>
                 <span className="dock-label">S.A.V</span>
-            </button>
+            </NavLink>
 
-            <button className="text-non-actif">
+            <NavLink to="/news" className={({isActive}) => isActive ? 'dock-active jaune-torchio' : 'text-non-actif' }>
                 <i className="fa-solid fa-info"></i>
                 <span className="dock-label">Informations</span>
-            </button>
+            </NavLink>
         </div>
     )
 }

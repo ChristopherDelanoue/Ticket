@@ -5,15 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f62fd1e7-689b-4b93-8793-6fc0968048ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/vite-project/src/Pages/Avis.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite-project/src/Pages/Error.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite-project/src/Pages/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite-project/src/Pages/Root.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite-project/src/assets/Catalogue/car.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite-project/src/assets/Catalogue/san.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite-project/src/assets/Catalogue/sanStock.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/InputMail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/InputMail.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/InputNumb.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/InputNumb.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/InputText.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/InputText.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/Select.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/Select.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/TextArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/TextArea.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/sav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/sav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/sav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Pages/sav.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +55,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CDELANOUE.DOMTORCHIO\Desktop\Ticket\vite-project\src\assets\Catalogue" />
+      <recent name="C:\Users\CDELANOUE.DOMTORCHIO\Desktop\Ticket\vite-project\src\Pages" />
       <recent name="$PROJECT_DIR$/vite-project/src/Images" />
     </key>
   </component>
@@ -78,7 +84,7 @@
       <workItem from="1762414985447" duration="21143000" />
       <workItem from="1762499933104" duration="4879000" />
       <workItem from="1764054095649" duration="9535000" />
-      <workItem from="1764227492773" duration="4601000" />
+      <workItem from="1764227492773" duration="17606000" />
     </task>
     <servers />
   </component>
