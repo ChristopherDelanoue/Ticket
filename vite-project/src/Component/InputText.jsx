@@ -15,7 +15,6 @@ function InputText({nom, placeholder, onChangeValue}) {
                 <span className="label text-gray-900 w-[45%] p-[6px]">{nom}</span>
                 <input onBlur={handleChange} type="text" placeholder={placeholder} />
             </label>
-            {console.log(value)}
         </div>
     )
 }

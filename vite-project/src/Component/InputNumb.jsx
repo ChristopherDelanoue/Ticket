@@ -14,7 +14,6 @@ function InputNumb({nom, placeholder, onChangeValue}) {
             <label className="input input_conf">
                 <span className="label text-gray-900 w-[45%] p-[6px]">{nom}</span>
                 <input onBlur={handleChange} type="number" placeholder={placeholder} />
-                {console.log(value)}
             </label>
         </div>
     )

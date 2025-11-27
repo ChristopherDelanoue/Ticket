@@ -13,9 +13,8 @@ function InputMail({nom, placeholder, onChangeValue}) {
         <div className=" flex justify-center p-1">
             <label className="input input_conf">
                 <span className="label text-gray-900 w-[45%] p-[6px]">{nom}</span>
-                <input onBlur={handleChange} type="text" placeholder={placeholder} />
+                <input onBlur={handleChange} type="text" placeholder={placeholder} required />
             </label>
-            {console.log(value)}
         </div>
     )
 }

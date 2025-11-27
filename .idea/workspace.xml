@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f62fd1e7-689b-4b93-8793-6fc0968048ef" name="Changes" comment="" />
+    <list default="true" id="f62fd1e7-689b-4b93-8793-6fc0968048ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/InputMail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/InputMail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/InputNumb.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/InputNumb.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/InputText.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/InputText.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/Select.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/Select.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/TextArea.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/TextArea.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/Component/sav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/Component/sav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-project/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/vite-project/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -20,16 +33,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/christopherdelanoue/Desktop/test Tailwind daisyui",
+    "last_opened_file_path": "C:/Users/CDELANOUE.DOMTORCHIO/Desktop/Ticket",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,7 +57,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26574.96" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
       </set>
     </attachedChunks>
   </component>
@@ -62,6 +78,7 @@
       <workItem from="1762414985447" duration="21143000" />
       <workItem from="1762499933104" duration="4879000" />
       <workItem from="1764054095649" duration="9535000" />
+      <workItem from="1764227492773" duration="4601000" />
     </task>
     <servers />
   </component>

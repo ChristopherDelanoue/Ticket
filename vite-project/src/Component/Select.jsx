@@ -16,7 +16,6 @@ function Select({options, onChangeValue}) {
                     <option key={index} value={option}>{option}</option>
                 ))}
             </select>
-            {console.log(value)}
         </div>
     )
 }
